@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0033,100:00ffff&text=SW1ZX&fontSize=90&fontColor=00ffff&animation=twinkling&height=220&stroke=ff00ff&strokeWidth=3&fontAlignY=65&desc=Red%20Team%20%7C%20Mobile%20Security%20%7C%20Cloud%20Security%20%7C%20GRC&descSize=17&descAlignY=85&descColor=ff00ff)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:1a0033,100:00ffff&text=SW1ZX&fontSize=90&fontColor=00ffff&animation=twinkling&height=220&strokeWidth=0&fontAlignY=65&desc=Red%20Team%20%7C%20Mobile%20Security%20%7C%20Cloud%20Security%20%7C%20GRC&descSize=17&descAlignY=85&descColor=00ffff)
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                      TYPING SVG                                 -->
@@ -130,7 +130,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=anousonephyakeo&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=FF00FF&dates=808080" />
+<img src="https://streak-stats.demolab.com?user=anousonephyakeo&theme=tokyonight&hide_border=true&background=0D0D0D&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=00CCFF&dates=808080" />
 
 </div>
 
@@ -203,7 +203,7 @@
 
 ## 📈 &nbsp;Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anousonephyakeo&theme=react-dark&bg_color=0d0d0d&color=00ffff&line=ff00ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anousonephyakeo&theme=react-dark&bg_color=0d0d0d&color=00ffff&line=00ccff&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -235,6 +235,6 @@
 
 *"The quieter you become, the more you are able to hear."*
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0033,100:ff00ff&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0033,100:00ffff&height=120&section=footer)
 
 </div>
