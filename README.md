@@ -53,64 +53,43 @@
 ## ⚔️ &nbsp;Arsenal
 
 ### 🔴 &nbsp;Application Security
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0d0d0d?style=for-the-badge&logo=burpsuite&logoColor=bb9af7)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0d0d0d?style=for-the-badge&logo=owasp&logoColor=f7768e)
-![SQLMap](https://img.shields.io/badge/SQLMap-0d0d0d?style=for-the-badge&logoColor=f7768e&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y3NzY4ZSIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
-![Nuclei](https://img.shields.io/badge/Nuclei-0d0d0d?style=for-the-badge&logoColor=bb9af7&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2JiOWFmNyIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
-![Frida](https://img.shields.io/badge/Frida-0d0d0d?style=for-the-badge&logoColor=e0af68&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2UwYWY2OCIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
-![reFlutter](https://img.shields.io/badge/reFlutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=7dcfff)
-![MobSF](https://img.shields.io/badge/MobSF-0d0d0d?style=for-the-badge&logoColor=9ece6a&logo=android)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0d0d0d?style=for-the-badge&logo=kalilinux&logoColor=7aa2f7)
+
+[![Kali](https://skillicons.dev/icons?i=kali&theme=dark)](https://www.kali.org)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0d0d0d?style=flat-square&logo=burpsuite&logoColor=00ffff)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0d0d0d?style=flat-square&logo=owasp&logoColor=00ffff)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d0d0d?style=flat-square&logo=wireshark&logoColor=00ffff)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d0d0d?style=flat-square&logo=metasploit&logoColor=00ffff)
+&nbsp; `SQLMap` &nbsp; `Nuclei` &nbsp; `Frida` &nbsp; `reFlutter` &nbsp; `MobSF` &nbsp; `Nmap`
 
 ### ☁️ &nbsp;Cloud & Infrastructure Security
-![AWS](https://img.shields.io/badge/AWS%20Security-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=e0af68)
-![AWS IAM](https://img.shields.io/badge/IAM-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=f7768e)
-![AWS S3](https://img.shields.io/badge/S3-0d0d0d?style=for-the-badge&logo=amazons3&logoColor=e0af68)
-![AWS EC2](https://img.shields.io/badge/EC2-0d0d0d?style=for-the-badge&logo=amazonec2&logoColor=bb9af7)
-![AWS Lambda](https://img.shields.io/badge/Lambda-0d0d0d?style=for-the-badge&logo=awslambda&logoColor=e0af68)
-![CloudTrail](https://img.shields.io/badge/CloudTrail-0d0d0d?style=for-the-badge&logo=amazonaws&logoColor=7dcfff)
-![Pacu](https://img.shields.io/badge/Pacu-0d0d0d?style=for-the-badge&logoColor=f7768e&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y3NzY4ZSIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
-![Prowler](https://img.shields.io/badge/Prowler-0d0d0d?style=for-the-badge&logoColor=9ece6a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzllY2U2YSIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
-![Nmap](https://img.shields.io/badge/Nmap-0d0d0d?style=for-the-badge&logoColor=7aa2f7&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdhYTJmNyIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d0d0d?style=for-the-badge&logo=wireshark&logoColor=7dcfff)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d0d0d?style=for-the-badge&logo=metasploit&logoColor=9ece6a)
-![BloodHound](https://img.shields.io/badge/BloodHound-0d0d0d?style=for-the-badge&logoColor=f7768e&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y3NzY4ZSIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
-![Impacket](https://img.shields.io/badge/Impacket-0d0d0d?style=for-the-badge&logoColor=bb9af7&logo=python)
+
+[![AWS](https://skillicons.dev/icons?i=aws&theme=dark)](https://skillicons.dev)
+&nbsp; `IAM` &nbsp; `S3` &nbsp; `EC2` &nbsp; `Lambda` &nbsp; `CloudTrail` &nbsp; `Pacu` &nbsp; `Prowler` &nbsp; `BloodHound` &nbsp; `Impacket`
 
 ### 💻 &nbsp;Programming & Automation
-![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=e0af68)
-![Go](https://img.shields.io/badge/Go-0d0d0d?style=for-the-badge&logo=go&logoColor=7dcfff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=e0af68)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=9ece6a)
-![Bash](https://img.shields.io/badge/Bash-0d0d0d?style=for-the-badge&logo=gnubash&logoColor=a9b1d6)
-![PowerShell](https://img.shields.io/badge/PowerShell-0d0d0d?style=for-the-badge&logo=powershell&logoColor=7aa2f7)
-![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=7dcfff)
-![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=7dcfff)
-![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=bb9af7)
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=7dcfff)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=for-the-badge&logo=nextdotjs&logoColor=a9b1d6)
+
+[![Skills](https://skillicons.dev/icons?i=python,go,js,nodejs,bash,powershell,flutter,dart,react,nextjs&theme=dark)](https://skillicons.dev)
+&nbsp; `SQL`
 
 ### 🏛️ &nbsp;Frameworks & Compliance
-![OWASP ASVS](https://img.shields.io/badge/OWASP%20ASVS-0d0d0d?style=for-the-badge&logo=owasp&logoColor=f7768e)
-![OWASP MSTG](https://img.shields.io/badge/OWASP%20MSTG-0d0d0d?style=for-the-badge&logo=owasp&logoColor=bb9af7)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-0d0d0d?style=for-the-badge&logoColor=f7768e&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2Y3NzY4ZSIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
-![NIST CSF](https://img.shields.io/badge/NIST%20CSF-0d0d0d?style=for-the-badge&logoColor=7aa2f7&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzdhYTJmNyIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
-![ISO 27001](https://img.shields.io/badge/ISO%2027001-0d0d0d?style=for-the-badge&logoColor=9ece6a&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzllY2U2YSIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
-![STRIDE](https://img.shields.io/badge/STRIDE-0d0d0d?style=for-the-badge&logoColor=e0af68&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2UwYWY2OCIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
-![PTES](https://img.shields.io/badge/PTES-0d0d0d?style=for-the-badge&logoColor=bb9af7&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2JiOWFmNyIgZD0iTTEyIDJDNi40NzcgMiAyIDYuNDc3IDIgMTJzNC40NzcgMTAgMTAgMTAgMTAtNC40NzcgMTAtMTBTMTcuNTIzIDIgMTIgMnoiLz48L3N2Zz4=)
+
+![OWASP ASVS](https://img.shields.io/badge/OWASP%20ASVS-0d0d0d?style=flat-square&logo=owasp&logoColor=00ffff)
+![OWASP MSTG](https://img.shields.io/badge/OWASP%20MSTG-0d0d0d?style=flat-square&logo=owasp&logoColor=00ffff)
+&nbsp; `MITRE ATT&CK` &nbsp; `NIST CSF` &nbsp; `ISO 27001` &nbsp; `STRIDE` &nbsp; `PTES`
 
 ### 🎓 &nbsp;Certifications
-![eJPTv2](https://img.shields.io/badge/eJPTv2-0d0d0d?style=for-the-badge&logo=ine&logoColor=9ece6a)
-![ICCA](https://img.shields.io/badge/ICCA-0d0d0d?style=for-the-badge&logo=ine&logoColor=7dcfff)
-![Pentest+](https://img.shields.io/badge/CompTIA%20Pentest%2B-0d0d0d?style=for-the-badge&logo=comptia&logoColor=bb9af7)
-![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-0d0d0d?style=for-the-badge&logo=comptia&logoColor=e0af68)
-![CC](https://img.shields.io/badge/CC%20%7C%20ISC²-0d0d0d?style=for-the-badge&logo=isc2&logoColor=7aa2f7)
+
+![eJPTv2](https://img.shields.io/badge/eJPTv2-0d0d0d?style=flat-square&logo=ine&logoColor=00ffff)
+![ICCA](https://img.shields.io/badge/ICCA-0d0d0d?style=flat-square&logo=ine&logoColor=00ffff)
+![Pentest+](https://img.shields.io/badge/Pentest%2B-0d0d0d?style=flat-square&logo=comptia&logoColor=00ffff)
+![Security+](https://img.shields.io/badge/Security%2B-0d0d0d?style=flat-square&logo=comptia&logoColor=00ffff)
+![CC](https://img.shields.io/badge/CC%20%7C%20ISC%C2%B2-0d0d0d?style=flat-square&logo=isc2&logoColor=00ffff)
 
 ### 🌐 &nbsp;Platforms
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0d0d0d?style=for-the-badge&logo=tryhackme&logoColor=f7768e)
-![Android](https://img.shields.io/badge/Android%20Pentest-0d0d0d?style=for-the-badge&logo=android&logoColor=9ece6a)
-![iOS](https://img.shields.io/badge/iOS%20Pentest-0d0d0d?style=for-the-badge&logo=apple&logoColor=a9b1d6)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=7aa2f7)
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-0d0d0d?style=flat-square&logo=tryhackme&logoColor=00ffff)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions&theme=dark)](https://skillicons.dev)
+&nbsp; `Android Pentest` &nbsp; `iOS Pentest`
 
 </div>
 
