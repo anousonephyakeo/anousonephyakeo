@@ -17,21 +17,16 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # ── Core ─────────────────────────────────────────────────
-          token: ${{ secrets.METRICS_TOKEN }}
+          # Uses METRICS_TOKEN if available, falls back to GITHUB_TOKEN
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
           user: anousonephyakeo
-          template: terminal
+          template: classic
           filename: github-metrics.svg
           config_timezone: Asia/Vientiane
-          config_padding: 10, 15
-          config_display: large
+          config_padding: 6, 12
 
           # ── Base sections ─────────────────────────────────────────
-          base: header, activity, community, repositories, metadata
-
-          # ── Achievements plugin ───────────────────────────────────
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
+          base: header, activity, community, repositories
 
           # ── Isocalendar (contribution heatmap) ───────────────────
           plugin_isocalendar: yes
@@ -40,23 +35,12 @@ jobs:
           # ── Languages breakdown ───────────────────────────────────
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-
-          # ── Topics / interests ────────────────────────────────────
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_limit: 20
 
           # ── Recent activity ───────────────────────────────────────
           plugin_activity: yes
-          plugin_activity_limit: 6
-          plugin_activity_days: 30
-          plugin_activity_filter: all
-
-          # ── Follow-up on PRs/Issues ───────────────────────────────
-          plugin_followup: yes
-          plugin_followup_sections: repositories
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
 
           # ── Star history ──────────────────────────────────────────
           plugin_stars: yes
