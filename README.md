@@ -26,7 +26,7 @@
 ├──────────────────────────────────────────────────────────────────┤
 │  handle        :  SW1ZX  (Anousone Phyakeo)                       │
 │  location      :  Vientiane, Laos 🇱🇦 · ASEAN                    │
-│  role          :  Security Engineer @ LAILAOLAB ICT Solutions     │
+│  role          :  Security Engineer                                │
 │  web           :  https://www.taraxon.com                         │
 │  linkedin      :  linkedin.com/in/anousonepk                      │
 │                                                                    │
