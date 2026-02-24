@@ -10,7 +10,7 @@
 <!--                      TYPING SVG                                 -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&random=false&width=750&height=50&lines=Security+Engineer+%40+LAILAOLAB+%F0%9F%94%91;Red+Team+Operator+%7C+Penetration+Tester+%F0%9F%94%B4;Mobile+Security+%7C+Flutter+%26+Android+%26+iOS+%F0%9F%93%B1;Cloud+Security+%7C+AWS+IAM+%2F+S3+%2F+EC2+%2F+Lambda+%E2%98%81%EF%B8%8F;150%2B+Vulns+Found+%7C+15+Security+Assessments+%F0%9F%8F%86;eJPTv2+%E2%9C%94%EF%B8%8F+ICCA+%E2%9C%94%EF%B8%8F+Pentest%2B+%E2%9C%94%EF%B8%8F+CC+%E2%9C%94%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7AA2F7&background=1A1B2600&center=true&vCenter=true&random=false&width=750&height=50&lines=Red+Team+Operator+%7C+Penetration+Tester+%F0%9F%94%B4;Mobile+Security+%7C+Flutter+%26+Android+%26+iOS+%F0%9F%93%B1;Cloud+Security+%7C+AWS+IAM+%2F+S3+%2F+EC2+%2F+Lambda+%E2%98%81%EF%B8%8F;150%2B+Vulns+Found+%7C+15+Security+Assessments+%F0%9F%8F%86;eJPTv2+%E2%9C%94%EF%B8%8F+ICCA+%E2%9C%94%EF%B8%8F+Pentest%2B+%E2%9C%94%EF%B8%8F+CC+%E2%9C%94%EF%B8%8F+Security%2B+%E2%9C%94%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,7 +33,7 @@
 │  specialisms   :  Web/API/Mobile Pentest · AWS Security · GRC     │
 │  frameworks    :  OWASP ASVS · OWASP MSTG · MITRE ATT&CK         │
 │                   PTES · NIST CSF · ISO 27001 · STRIDE            │
-│  certifications:  [eJPTv2, ICCA, CompTIA Pentest+, CC]           │
+│  certifications:  [eJPTv2, ICCA, CompTIA Pentest+, CC, Security+] │
 │  ctf_platform  :  TryHackMe 🎯  (Swizzxxx)                       │
 │                                                                    │
 │  impact        :  150+ vulns found · 15 assessments · $150K+      │
@@ -103,6 +103,7 @@
 ![eJPTv2](https://img.shields.io/badge/eJPTv2-1a1b26?style=for-the-badge&logo=ine&logoColor=9ece6a)
 ![ICCA](https://img.shields.io/badge/ICCA-1a1b26?style=for-the-badge&logo=ine&logoColor=7dcfff)
 ![Pentest+](https://img.shields.io/badge/CompTIA%20Pentest%2B-1a1b26?style=for-the-badge&logo=comptia&logoColor=bb9af7)
+![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-1a1b26?style=for-the-badge&logo=comptia&logoColor=e0af68)
 ![CC](https://img.shields.io/badge/CC%20%7C%20ISC²-1a1b26?style=for-the-badge&logo=isc2&logoColor=7aa2f7)
 
 ### 🌐 &nbsp;Platforms
