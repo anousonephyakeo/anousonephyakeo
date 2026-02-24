@@ -1,0 +1,43 @@
+name: 🧊 3D Contribution Calendar
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Contribution Graph
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D Contribution SVG
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: anousonephyakeo
+        with:
+          # Tokyo Night palette
+          SETTINGS_JSON: |
+            {
+              "githubUserName": "anousonephyakeo",
+              "startForegroundColor": "#7aa2f7",
+              "endForegroundColor": "#bb9af7",
+              "backgroundColor": "#1a1b26",
+              "strongColor": "#7dcfff",
+              "lightColor": "#414868",
+              "drawShadow": true,
+              "drawMedian": false,
+              "type": "NORMAL"
+            }
+
+      - name: Commit & Push 3D graph
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git diff --staged --quiet || git commit -m "🧊 Update 3D contribution graph [skip ci]"
+          git push
