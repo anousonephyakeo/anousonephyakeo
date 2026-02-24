@@ -56,25 +56,37 @@
 
 ### � &nbsp;Languages
 
-[![Languages](https://skillicons.dev/icons?i=python,go,js,bash,powershell,dart,c&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,go,js,ts,bash,powershell,dart,c&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### ⚡ &nbsp;Frameworks & Libraries
 
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,flutter,tailwind,vue,threejs&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### 🗄️ &nbsp;Databases
 
-[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,mongodb&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### 🔄 &nbsp;CI/CD & Version Control
 
-[![DevOps](https://skillicons.dev/icons?i=git,github,githubactions,docker,linux&theme=dark)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=git,github,gitlab,githubactions,docker,kubernetes,terraform,ansible,linux&theme=dark)](https://skillicons.dev)
+
+---
+
+### 🛠️ &nbsp;Dev Tools
+
+[![DevTools](https://skillicons.dev/icons?i=postman,vscode,vim,vercel&theme=dark)](https://skillicons.dev)
+
+---
+
+### 🔬 &nbsp;Other Technologies
+
+[![Other](https://skillicons.dev/icons?i=tensorflow,solidity,raspberrypi,grafana,prometheus&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -128,13 +140,6 @@
 ![Pentest+](https://img.shields.io/badge/CompTIA_Pentest%2B-0d0d0d?style=flat-square&logo=comptia&logoColor=00ffff)
 ![Security+](https://img.shields.io/badge/CompTIA_Security%2B-0d0d0d?style=flat-square&logo=comptia&logoColor=00ffff)
 ![CC ISC²](https://img.shields.io/badge/CC_ISC%C2%B2-0d0d0d?style=flat-square&logo=isc2&logoColor=00ffff)
-
----
-
-### 🌐 &nbsp;Platforms
-
-[![Platforms](https://skillicons.dev/icons?i=linux,android,apple&theme=dark)](https://skillicons.dev)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0d0d0d?style=flat-square&logo=tryhackme&logoColor=00ffff)
 
 </div>
 
