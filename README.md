@@ -25,8 +25,9 @@
 │                    [ OPERATOR PROFILE ]                           │
 ├──────────────────────────────────────────────────────────────────┤
 │  handle        :  SW1ZX  (Anousone Phyakeo)                       │
-│  location      :  Vientiane, Laos 🇱🇦 · ASEAN                    │
+│  location      :  Budapest, Hungary · from Laos 🇱🇦              │
 │  role          :  Security Engineer                                │
+│  site          :  https://anousonephyakeo.github.io               │
 │  web           :  https://www.taraxon.com                         │
 │  linkedin      :  linkedin.com/in/anousonepk                      │
 │                                                                    │
